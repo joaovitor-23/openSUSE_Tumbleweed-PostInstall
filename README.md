@@ -1,6 +1,6 @@
 # Post Install openSUSE Tumbleweed
 ***
-Shell Script de pós instalação do linux openSUSE Tumbleweed, **automatiza configurações e instalações de programas**.
+Shell Script de pós instalação do linux openSUSE Tumbleweed KDE, **automatiza configurações e instalações de programas**.
 1. Faça o donwload do arquivo OpenSUSE.sh.
 2. Acesse o diretorio e execute os comandos.
 
